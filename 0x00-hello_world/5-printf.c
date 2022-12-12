@@ -4,13 +4,12 @@
 
 /**
  *
- *  * starting point
+ * starting point
  *
- *   *
  *
- *    * ending point: return 0 (success)
+ * ending point: return 0 (success)
  *
- *     */
+ */
 
 
 
