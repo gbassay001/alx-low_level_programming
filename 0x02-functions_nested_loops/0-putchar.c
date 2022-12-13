@@ -1,18 +1,10 @@
 #include "main.h"
 
 
-
 /**
- *
- * starting point 
- *
- *
- *
- * ending point Return 0 (Success)
- *
+ * starting point
+ * ending point retun 0 success
  */
-
-
 
 int main(void)
 
